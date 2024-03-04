@@ -1,5 +1,5 @@
 # Create Your Own Chatbot Website with Open Source LLMs
-## Author: @JC
+## Author: @JC-IBM and @Vikri-playground
 
 
 ### Mentee assignments from IBM Advance AI for @Infinite Learning
